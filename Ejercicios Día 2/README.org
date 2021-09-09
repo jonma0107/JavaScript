@@ -18,7 +18,7 @@ Escribe un programa que piense un número de forma aleatoria del 1 al 10 y le pi
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_07/][Solución Ejercicio 7]]
+- [[file:./Solución_ejercicio_07/][Solución Ejercicio 7]]
 
 *** Ejercicio 8
 Un múltiplo de 5 es aquel que dividido por 5 da por resultado un número entero (sin residuo). Por ejemplo 10, 15, 20, etc. son múltiplos de 5. 11 no es múltiplo de 5 porque quedaría un residuo de 1.
@@ -29,7 +29,7 @@ Si es múltiplo debe imprimir "Si, el número X es múltiplo 5", de lo contrario
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_08/][Solución Ejercicio 8]]
+- [[file:./Solución_ejercicio_08/][Solución Ejercicio 8]]
 
 *** Ejercicio 9
 Escribe un programa que le pida un número al usuario e imprima en la consola si el número si es mayor, menor o igual que 10.
@@ -42,7 +42,7 @@ Si el número es igual a 10 debe imprimir "El número es igual a 10".
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_09/][Solución Ejercicio 9]]
+- [[file:./Solución_ejercicio_09/][Solución Ejercicio 9]]
 
 *** Ejercicio 10
 El índice de masa corporal (IMC), o BMI por sus siglas en inglés, es un valor que determina la cantidad de grasa de una persona.
@@ -62,7 +62,7 @@ Escribe un programa que le pida al usuario su peso y altura. El programa deberá
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_10/][Solución Ejercicio 10]]
+- [[file:./Solución_ejercicio_10/][Solución Ejercicio 10]]
 
 *** Ejercicio 11
 Escribe un programa que le pida al usuario ingresar un número.
@@ -76,6 +76,6 @@ Escribe un programa que le pida al usuario ingresar un número.
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_11/][Solución Ejercicio 11]]
+- [[file:./Solución_ejercicio_11/][Solución Ejercicio 11]]
 
 
