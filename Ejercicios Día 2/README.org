@@ -11,7 +11,7 @@ Si es menor debe imprimir "El número es menor o igual a 10".
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_06/][Solución Ejercicio 6]]
+- [[file:./Ejercicios Día 2/Solución_Ejercicio_06/][Solución Ejercicio 6]]
 
 *** Ejercicio 7
 Escribe un programa que piense un número de forma aleatoria del 1 al 10 y le pida al usuario que lo trate de adivinar. Si el número es correcto debe imprimir en la consola "Felicitaciones, ese era!", de lo contrario debe imprimir "Lo siento, intenta nuevamente!"
