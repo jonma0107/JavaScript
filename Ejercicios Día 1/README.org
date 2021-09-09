@@ -8,7 +8,7 @@ Recuerda que para pedirle al usuario que escriba una frase debes utilizar el mé
 
 *** Solución:
 
-- [[file:.Ejercicios Día 1/Solución Ejercicio 1/][Solución Ejercicio 1]]
+- [[file:Ejercicios Día 1/Solución Ejercicio 1/][Solución Ejercicio 1]]
 
 *** Ejercicio 2
 Escribe un programa que le pregunte al usuario su nombre e imprima "Hola " seguido del nombre y un signo de exclamación.
@@ -16,14 +16,14 @@ Por ejemplo, si el usuario ingresa "Pedro" el programa debe imprimir en la conso
 
 *** Solución:
 
-- [[file:.Ejercicios Día 1/Solución Ejercicio 2/][Solución Ejercicio 2]]
+- [[file:Ejercicios Día 1/Solución Ejercicio 2/][Solución Ejercicio 2]]
 
 *** Ejercicio 3
 Escribe un programa que le pida al usuario ingresar un número, luego le pide un segundo número, e imprima en la consola la suma de los dos números que ingresó el usuario.
 
 *** Solución:
 
-- [[file:.Ejercicios Día 1/Solución Ejercicio 3/][Solución Ejercicio 3]]
+- [[file:Ejercicios Día 1/Solución Ejercicio 3/][Solución Ejercicio 3]]
 
 *** Ejercicio 4
 Escribe un programa que le pida al usuario su año de nacimiento e imprima su edad actual en la consola con la frase "Tienes X años". Por ejemplo, asumiendo que el año actual es 2020 y el usuario ingresa 2000, el programa debe imprimir en la consola:
@@ -33,7 +33,7 @@ Escribe un programa que le pida al usuario su año de nacimiento e imprima su ed
 
 *** Solución:
 
-- [[file:.Ejercicios Día 1/Solución Ejercicio 4/][Solución Ejercicio 4]]
+- [[file:Ejercicios Día 1/Solución Ejercicio 4/][Solución Ejercicio 4]]
 
 *** Ejercicio 5
 El índice de masa corporal (IMC), o BMI por sus siglas en inglés, es un valor que determina la cantidad de grasa de una persona.
@@ -47,6 +47,6 @@ Por ejemplo, si el usuario ingresa 65 de peso y 1.8 de altura el programa debe i
 
 *** Solución:
 
-- [[file:.Ejercicios Día 1/Solución Ejercicio 5/][Solución Ejercicio 5]]
+- [[file:Ejercicios Día 1/Solución Ejercicio 5/][Solución Ejercicio 5]]
 
 
