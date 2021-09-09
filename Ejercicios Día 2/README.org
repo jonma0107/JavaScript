@@ -11,14 +11,14 @@ Si es menor debe imprimir "El número es menor o igual a 10".
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_06/][Solución Ejercicio 6]]
+- [[file:./Solución_Ejercicio_6/][Solución Ejercicio 6]]
 
 *** Ejercicio 7
 Escribe un programa que piense un número de forma aleatoria del 1 al 10 y le pida al usuario que lo trate de adivinar. Si el número es correcto debe imprimir en la consola "Felicitaciones, ese era!", de lo contrario debe imprimir "Lo siento, intenta nuevamente!"
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_07/][Solución Ejercicio 7]]
+- [[file:./Solución_Ejercicio_7/][Solución Ejercicio 7]]
 
 *** Ejercicio 8
 Un múltiplo de 5 es aquel que dividido por 5 da por resultado un número entero (sin residuo). Por ejemplo 10, 15, 20, etc. son múltiplos de 5. 11 no es múltiplo de 5 porque quedaría un residuo de 1.
@@ -30,7 +30,7 @@ Si es múltiplo debe imprimir "Si, el número x es múltiplo 5", de lo contrario
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_08/][Solución Ejercicio 8]]
+- [[file:./Solución_Ejercicio_8/][Solución Ejercicio 8]]
 
 *** Ejercicio 9
 Escribe un programa que le pida un número al usuario e imprima en la consola si el número si es mayor, menor o igual que 10.
@@ -44,7 +44,7 @@ Si el número es igual a 10 debe imprimir "El número es igual a 10".
 
 *** Solución:
 
-- [[file:./Solución_Ejercicio_09/][Solución Ejercicio 9]]
+- [[file:./Solución_Ejercicio_9/][Solución Ejercicio 9]]
 
 *** Ejercicio 10
 El índice de masa corporal (IMC), o BMI por sus siglas en inglés, es un valor que determina la cantidad de grasa de una persona.
