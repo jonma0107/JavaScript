@@ -1,5 +1,5 @@
 
-Condicionales en JavaScript
+** Condicionales en JavaScript
 
 ** Ejercicios día 2
 *** Ejercicio 6
