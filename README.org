@@ -152,17 +152,26 @@ console.log(num1 / 1500);
 #+END_SRC
 
 #+BEGIN_SRC
-125;
-0;
-10000;
-0.06666666666666667;
+125
+0
+10000
+0.06666666666666667
 #+END_SRC
 
 *** Operaciones matemáticas adicionales
+
+#+BEGIN_SRC
 let num1 = 100;
 console.log(8 % 3); // Sobrante
 console.log(++num1); // Incremento
 console.log(--num1); // Decremento
+#+END_SRC
+
+#+BEGIN_SRC
+2
+101
+99
+#+END_SRC
 
 
 
