@@ -2,9 +2,9 @@
 
 ¡Hola! En este repositorio aprenderás mediante ejercicios las bases de JavaScript, el lenguaje más popular de la actualidad.
 
-- [[file:./Ejercicios DÍa 1/][Ejercicios día 1]]
-- [[file:./Ejercicios DÍa 2][Ejercicios día 2]]
-- [[file:./Ejercicios DÍa 3][Ejercicios día 3]]
+- [[file:./Ejercicios Día 1/][Ejercicios día 1]]
+- [[file:./Ejercicios Día 2][Ejercicios día 2]]
+- [[file:./Ejercicios Día 3][Ejercicios día 3]]
 
 ** ¿Qué es JavaScript?
 
