@@ -31,3 +31,19 @@ El código se compila cuando se ejecuta
 - *Servidor:* El runtime de Node.js que ejecuta JavaScript del lado del servidor.
 
 - *Nativo:* Puede crear aplicaciones para escritorio, móviles como: React native, Electron y NativeScript.
+
+#+BEGIN_SRC
+JavaScript en el navegador
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Home Page</title>
+</head>
+<body>
+	<button id="submit">Submit</button>
+	<script>
+		alert("Hello, JavaScript!");
+	</script>
+</body>
+</html>
+#+END_SRC
