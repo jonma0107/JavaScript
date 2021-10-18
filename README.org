@@ -130,13 +130,13 @@ let en loops y valores cambiantes
 *JavaScript tiene un tipado débil (no-tipados).*
 
 - Tipos Simples del Lenguaje
-Number (float), String, Boolean, Date, symbol, bigInt
+=Number (float), String, Boolean, Date, symbol, bigInt=
 
 - Tipos Especiales
-NaN, null, undefined
+=NaN, null, undefined=
 
 - Estructuras de datos
-Array y Object
+=Array y Object=
 
 *** Comprobando el tipo:
 
