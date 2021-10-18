@@ -68,6 +68,46 @@ El atributo language: <script language=…>
 ...
 #+END_SRC
 
+** Estructura del código
+
+*** Sentencias
+
+#+BEGIN_SRC
+alert('Hola'); alert('Mundo');
+#+END_SRC
+
+*** Sin punto y coma
+
+#+BEGIN_SRC
+alert('Hola')
+alert('Mundo')
+#+END_SRC
+
+*** Comentarios
+
+#+BEGIN_SRC
+// Este comentario ocupa una línea propia
+alert('Hola');
+alert('Mundo'); // Este comentario sigue a la sentencia
+#+END_SRC
+
+#+BEGIN_SRC
+/* Este es un comentario multi línea */
+#+END_SRC
+
+** Declarando Variables
+
+*** Dos maneras:
+
+#+BEGIN_SRC
+var uno;
+let dos;
+#+END_SRC
+
+
+
+
+
 
 
 
