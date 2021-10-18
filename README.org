@@ -118,11 +118,51 @@ let test123;
 ¿Cuándo debemos usarlo?
 
 #+BEGIN_SRC
-=const= por defecto
-=let= en loops y valores cambiantes
+const por defecto
+let en loops y valores cambiantes
 #+END_SRC
 
+** Tipos de Datos
 
+*JavaScript tiene un tipado débil (no-tipados).*
+
+- Tipos Simples del Lenguaje
+Number (float), String, Boolean, Date, symbol, bigInt
+
+- Tipos Especiales
+NaN, null, undefined
+
+- Estructuras de datos
+Array y Object
+
+*** Comprobando el tipo:
+
+operador =typeof= devuelve una cadena del tipo de datos primitivo.
+
+** Matemáticas en JavaScript
+
+*** Matemáticas básicas
+
+#+BEGIN_SRC
+let num1 = 100;
+console.log(num1 + 25);
+console.log(num1 - 100);
+console.log(num1 * 100);
+console.log(num1 / 1500);
+#+END_SRC
+
+#+BEGIN_SRC
+125;
+0;
+10000;
+0.06666666666666667;
+#+END_SRC
+
+*** Operaciones matemáticas adicionales
+let num1 = 100;
+console.log(8 % 3); // Sobrante
+console.log(++num1); // Incremento
+console.log(--num1); // Decremento
 
 
 
