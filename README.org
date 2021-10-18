@@ -10,3 +10,24 @@ Creado originalmente para interactuar con elementos en una página web*
 *No es Java.*
 Es un derivado del lenguaje C.
 Fue creado pensando en Java.
+
+Se escribe y se compila dinámicamente JIT (Just in Time):
+
+#+BEGIN_SRC
+var x = 0;
+El código se compila cuando se ejecuta
+#+END_SRC
+
+** Porque se llama Javascript?
+
+- Inicialmente se llamaba "LiveScript".
+- Fue construido en 10 días por [[https://es.wikipedia.org/wiki/Brendan_Eich][Brendan Eich]].
+- Respaldado por SUN en 1995.
+
+¡JavaScript está en todas partes!
+
+- *Cliente:* La web ha evolucionado significativamente durante los ultimos 10 años, la cual es capaz de ejecutarse en diferentes entornos de desarrollo.
+
+- *Servidor:* El runtime de Node.js que ejecuta JavaScript del lado del servidor.
+
+- *Nativo:* Puede crear aplicaciones para escritorio, móviles como: React native, Electron y NativeScript.
