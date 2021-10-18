@@ -252,12 +252,27 @@ console.log((100).toString());
 
 ** Plantillas Literales
 
-*** Formateo Flexible
+*** Formateo Flexible:
 La sintaxis hace que las cadenas sean más fáciles de formatear y leer. Utilice marcadores de posición =$ {}= para variables o expresiones. Respeta los saltos de línea. No necesita el carácter de nueva línea ="\ n“=.
 
-*** Utiliza comillas invertidas
-Las plantillas literales solo requieren el carácter de acento inverso =``=, colocado al principio y al final de una
+*** Utiliza comillas invertidas:
+Las plantillas literales solo requieren el carácter de acento inverso =``= =(alt+96)=, colocado al principio y al final de una
 cadena. No es necesario citar caracteres.
+
+Concatenación con plantilla literales
+
+#+BEGIN_SRC
+let str1 = "JavaScript";
+let str2 = "fun";
+
+console.log(`I am writing code in ${str1}`);
+console.log(`Formatting strings in ${str1} is ${str2}!`);
+#+END_SRC
+
+#+BEGIN_SRC
+I am writing code in JavaScript
+Formatting strings in JavaScript is fun!
+#+END_SRC
 
 
 
