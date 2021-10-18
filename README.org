@@ -4,8 +4,7 @@
 
 ** ¿Qué es JavaScript?
 
-*JavaScript es un lenguaje de programación
-Creado originalmente para interactuar con elementos en una página web*
+*JavaScript es un lenguaje de programación, creado originalmente para interactuar con elementos en una página web*
 
 *No es Java.*
 Es un derivado del lenguaje C.
@@ -145,6 +144,7 @@ operador =typeof= devuelve una cadena del tipo de datos primitivo.
 
 #+BEGIN_SRC
 let num1 = 100;
+
 console.log(num1 + 25);
 console.log(num1 - 100);
 console.log(num1 * 100);
@@ -162,6 +162,7 @@ console.log(num1 / 1500);
 
 #+BEGIN_SRC
 let num1 = 100;
+
 console.log(8 % 3); // Sobrante
 console.log(++num1); // Incremento
 console.log(--num1); // Decremento
@@ -179,6 +180,7 @@ Para operaciones matemáticas usando el objeto Math:
 
 #+BEGIN_SRC
 let num1 = 100;
+
 console.log(Math.Pi); // Pi
 console.log(Math.sqrt(num1)); // Raíz Cuadrada
 #+END_SRC
@@ -188,6 +190,74 @@ console.log(Math.sqrt(num1)); // Raíz Cuadrada
 10
 #+END_SRC
 
+** Conversión entre números y cadenas
+
+*** parseInt() y parseFloat()
+- Convierte cadenas numéricas en números
+- parseFloat() es para números de punto flotante, números con punto decimales
+
+*** toString()
+- Convierte números en cadenas numéricas
+
+Conversión cadenas en enteros:
+
+#+BEGIN_SRC
+let num1 = '150';
+
+console.log(parseInt('100'));
+console.log(parseInt(num1));
+console.log(parseInt('ABC'));
+console.log(parseInt('0xF'));; // Número Hexadecimal
+#+END_SRC
+
+#+BEGIN_SRC
+100
+150
+NaN
+15
+#+END_SRC
+
+Conversión de cadenas en flotantes:
+
+#+BEGIN_SRC
+let flo1 = '1.50';
+
+console.log(parseFloat('1.00'));
+console.log(parseFloat(flo1));
+console.log(parseFloat('ABC'));
+#+END_SRC
+
+#+BEGIN_SRC
+1
+1.5
+NaN
+#+END_SRC
+
+Conversión de números en cadenas:
+
+#+BEGIN_SRC
+let num1 = 150;
+let flo1 = 1.50;
+
+console.log(num1.toString());
+console.log(flo1.toString());
+console.log((100).toString());
+#+END_SRC
+
+#+BEGIN_SRC
+'150'
+'1.50'
+'100'
+#+END_SRC
+
+** Plantillas Literales
+
+*** Formateo Flexible
+La sintaxis hace que las cadenas sean más fáciles de formatear y leer. Utilice marcadores de posición =$ {}= para variables o expresiones. Respeta los saltos de línea. No necesita el carácter de nueva línea ="\ n“=.
+
+*** Utiliza comillas invertidas
+Las plantillas literales solo requieren el carácter de acento inverso =``=, colocado al principio y al final de una
+cadena. No es necesario citar caracteres.
 
 
 
