@@ -1,5 +1,5 @@
 
-Introducción a JavaScript
+ Introducción a JavaScript
 
 ** Ejercicios día 1
 *** Ejercicio 1
