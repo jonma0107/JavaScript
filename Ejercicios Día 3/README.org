@@ -1,4 +1,4 @@
-Ciclo While en JavaScript
+** Ciclo While y For en JavaScript
 
 ** Ejercicios día 3
 *** Ejercicio 12
