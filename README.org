@@ -73,7 +73,8 @@ El atributo language: <script language=…>
 *** Sentencias
 
 #+BEGIN_SRC
-alert('Hola'); alert('Mundo');
+alert('Hola'); 
+alert('Mundo');
 #+END_SRC
 
 *** Sin punto y coma
@@ -104,8 +105,22 @@ var uno;
 let dos;
 #+END_SRC
 
+*** Nombramiento de variables
 
+- El nombre únicamente puede incluir letras, dígitos, o los símbolos $ y _.
+- El primer carácter no puede ser un dígito.
 
+#+BEGIN_SRC
+let userName;
+let test123;
+#+END_SRC
+
+¿Cuándo debemos usarlo?
+
+#+BEGIN_SRC
+=const= por defecto
+=let= en loops y valores cambiantes
+#+END_SRC
 
 
 
