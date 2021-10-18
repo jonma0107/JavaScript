@@ -2,11 +2,11 @@
 
 ¡Hola! En este repositorio aprenderás mediante ejercicios las bases de JavaScript, el lenguaje más popular de la actualidad.
 
-** Qué es JavaScript
+** ¿Qué es JavaScript?
 
 *JavaScript es un lenguaje de programación
 Creado originalmente para interactuar con elementos en una página web*
 
 *No es Java.*
-Es un derivado del lenguaje C
+Es un derivado del lenguaje C.
 Fue creado pensando en Java.
