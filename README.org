@@ -173,5 +173,21 @@ console.log(--num1); // Decremento
 99
 #+END_SRC
 
+*** El Objeto Math
+
+Para operaciones matemáticas usando el objeto Math:
+
+#+BEGIN_SRC
+let num1 = 100;
+console.log(Math.Pi); // Pi
+console.log(Math.sqrt(num1)); // Raíz Cuadrada
+#+END_SRC
+
+#+BEGIN_SRC
+3.141592653589793
+10
+#+END_SRC
+
+
 
 
